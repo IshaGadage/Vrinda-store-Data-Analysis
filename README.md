@@ -7,7 +7,7 @@ The goal was to analyze 12 months of sales data and generate actionable business
 
 ## 📊 Dashboard Preview
 
-![Vrinda Store Dashboard](C:\Users\Admin\Desktop\document_isha\vrinda_dataAnalysis.jpg)
+![Vrinda Store Dashboard](vrinda_dataAnalysis.jpg)
 
 ---
 
